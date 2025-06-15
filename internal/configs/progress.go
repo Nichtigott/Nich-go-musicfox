@@ -1,7 +1,7 @@
 package configs
 
 import (
-	"github.com/anhoder/foxful-cli/model"
+	"github.com/Nichtigott/Nich-foxful-cli/model"
 )
 
 type ProgressOptions struct {
